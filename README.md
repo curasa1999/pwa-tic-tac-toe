@@ -1,2 +1,2 @@
 # pwa-tic-tac-toe
-pwa-tic-tac-toe
+Sample App for a React PWA
